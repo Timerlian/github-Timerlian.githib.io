@@ -1,0 +1,64 @@
+.kep { width: 1020px;
+  height: 250px;
+  margin-left:180px;
+  Margin-right:100px;
+}
+
+.e { position: absolute;
+top: 200px;
+margin-left: 450px;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+.m{position: absolute;
+   top: 220px;
+  margin-left: 450px;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+  
+.bekezd1{ margin-left: 180px;
+  margin-right: 100px;
+  font-family: 'Josefin Sans', sans-serif;
+  
+}
+.elso{list-style-type: square;
+  margin-left: 180px;
+  margin-right: 100px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.h { border: solid;
+  background-color: grey;
+   margin-left: 180px;
+  margin-right:100px;
+  text-align: center;
+  font-család: 'Merriweather', serif;
+  color: white;
+  
+}
+.n{margin-left: 180px;
+  margin-right: 100px;
+  
+  
+}
+
+.hat {margin-left: 180px;
+  margin-right:100px;font-family: 'Josefin Sans', sans-serif;
+}
+
+.bekezd2 { margin-left:180px;
+  margin-right:100px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.bekezd3 {margin-left:180px;
+margin-right:100px;}
+
+.hat1 {
+  margin-top: -20px;
+  margin-left:180px;
+  margin-right:100px;
+  font-family: 'Josefin Sans', sans-serif;
+}
